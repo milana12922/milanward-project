@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="descripton" content="we are happy to invite you to enjoy affordable packages for flights and vacation outside and inside the contry">
+<link rel="stylesheet" href="style.css">
+    <title>milan&ward| traveling deals | vacation packages  </title>
+</head>
+<body> <h1> destination page</h1>
+    <h2> france</h2>
+<img src="full stack/paris.jpeg" class="img1">
+    <h3> discover the magic of france - from classic paris to the frinch rivia   </h3>
+        <p> "France is the perfect blend of culture, art, and breathtaking landscapes. 
+            From iconic Paris, with the Eiffel Tower, famous museums, and grand avenues, to the sunlit beaches of the French Riviera.
+            France offers an experience for every type of traveler, whether you want to wander through picturesque villages or enjoy a romantic meal with a view."</p>
+           <a href="https://www.skyscanner.co.il/transport/flights/tlv/pari/241119/241126/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539733&inboundaltsenabled=false&infants=0&originentityid=27546296&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1" ><button>for a perfect package</button></a>
+
+    <h2> barcelona </h2>
+    <img src="full stack/barca.jpg" class="img2">
+     <h3>The Mediterranean Charm of Barcelona"</h3>
+    <p> Barcelona is one of Europe's most vibrant cities, with rich culture, an exciting nightlife, and stunning architecture.
+         Enjoy Gaudí's masterpieces like the Sagrada Familia, stroll down the famous La Rambla, and immerse yourself in the unique atmosphere full of colors and local flavors</p>
+         <button>for a perfect package</button>
+<a href="https://www.skyscanner.co.il/transport/flights/tlv/bcn/241119/241126/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27548283&inboundaltsenabled=false&infants=0&originentityid=27546296&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"><button> for a perfect package</button></a>
+    <h2>turkey  </h2>
+    <img src="full stack/istnbul.jpeg" class="img3">
+    <h3>The Eastern Charm of Turkey - Istanbul, Cappadocia, and Turquoise Beaches</h3>
+    <p> Turkey offers a unique mix of cultures, rich history, and stunning nature.
+         From bustling Istanbul with its bazaars and mosques to the breathtaking landscapes of Cappadocia. 
+         Turkey offers unforgettable experiences for every traveler, including stunning beaches along the Mediterranean coast."</p>
+        
+<a href="https://www.skyscanner.co.il/il/he-il/usd/flights-to/ista/cheap-flights-to-istanbul.html?&utm_source=google&utm_medium=cpc&utm_campaign=IL-Flights-Search-HE-DSA&utm_term=DYNAMIC+SEARCH+ADS&associateID=SEM_FLI_19465_00000&campaign_id=20414463095&adgroupid=157589542211&keyword_id=dsa-1660404832943&gad_source=1&gclid=CjwKCAiA3Na5BhAZEiwAzrfagHtepOt9pNPTxv7EVzOhXSFCMld56AxgUIAz8taXHAAJnW26WPJ1NxoClDwQAvD_BwE&gclsrc=aw.ds"><button> for a perfect package</button></a>
+    <h2>Bali </h2>
+    <img src="full stack/bali.jpeg" class="img4">
+    <h3>"Welcome to the Paradise of Bali</h3> 
+    <p> Bali, a tropical island in Indonesia, is a dream for those seeking tranquility and adventure alike.
+         With white beaches, volcanoes, ancient temples, and a rich local culture,
+          Bali provides the perfect experience for travelers looking to relax and explore</p>
+         <a href="https://www.skyscanner.co.il/transport/flights/tlv/dps/241119/241126/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27540795&inboundaltsenabled=false&infants=0&originentityid=27546296&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1" ><button>for a perfect package</button></a>
+
+    <h2> maldives </h2>
+    <img src="full stack/seshel.jpeg" class="img5" >
+    <h3>The Ultimate Escape to the Maldives - Enchanting Tropical Islands</h3>
+    <p> The Maldives is paradise on earth, with turquoise waters, white sand, and endless serenity. 
+        Whether you want to relax in an overwater bungalow, dive among coral reefs, or simply enjoy nature's beauty,
+         the Maldives is the ideal spot for a romantic or family vacation."</p>
+        <a href="https://www.skyscanner.co.il/transport/flights/tlv/mv/241119/241126/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=29475313&inboundaltsenabled=false&infants=0&originentityid=27546296&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1" ><button>for a perfect package</button></a>
+
+</body>
+</html>
